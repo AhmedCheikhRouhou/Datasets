@@ -16,7 +16,7 @@ Appartements,3.0,2.0,138.0,À Vendre,340000.0,Ariana,Jardins D'el Menzah
 Maisons et Villas,2.0,1.0,150.0,À Vendre,120000.0,Ariana,Raoued
 Appartements,3.0,1.0,180.0,À Louer,300.0,Ariana,Borj Louzir
 Appartements,3.0,1.0,250.0,À Louer,500.0,Ariana,Ariana Ville
-Terrains et Fermes,,,,À Vendre,350000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,350000.0,Ariana,
 Appartements,2.0,1.0,80.0,À Vendre,230000.0,Ariana,Ennasr
 "Magasins, Commerces et Locaux industriels",1.0,1.0,20.0,À Vendre,55000.0,Ariana,Borj Louzir
 Appartements,2.0,1.0,80.0,À Louer,400.0,Ariana,Ghazela
@@ -71,7 +71,7 @@ Appartements,2.0,1.0,108.0,À Louer,90.0,Ariana,Autres villes
 "Magasins, Commerces et Locaux industriels",1.0,1.0,100.0,À Louer,1800.0,Ariana,Ariana Ville
 Maisons et Villas,3.0,1.0,130.0,À Louer,1200.0,Ariana,Jardins D'el Menzah
 Maisons et Villas,1.0,1.0,150.0,À Vendre,68000.0,Ariana,Chotrana
-Maisons et Villas,5.0,1.0,1000.0,À Vendre,400000.0,Ariana,Sidi Thabet
+Maisons et Villas,5.0,1.0,1000.0,À Vendre,400000.0,Ariana,
 "Magasins, Commerces et Locaux industriels",1.0,1.0,30.0,À Vendre,10000.0,Ariana,Jardins D'el Menzah
 Maisons et Villas,1.0,1.0,244.0,À Vendre,88000.0,Ariana,Raoued
 Appartements,2.0,1.0,68.0,À Louer,700.0,Ariana,Ariana Ville
@@ -97,27 +97,27 @@ Terrains et Fermes,,,,À Vendre,200000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,2250000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,260000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,500000.0,Ariana,Raoued
-Terrains et Fermes,,,,À Vendre,170000.0,Ariana,Sidi Thabet
-Terrains et Fermes,,,,À Vendre,400000.0,Ariana,Sidi Thabet
-Terrains et Fermes,,,,À Vendre,270000.0,Ariana,Sidi Thabet
-Terrains et Fermes,,,,À Vendre,250000.0,Ariana,Sidi Thabet
-Terrains et Fermes,,,,À Vendre,280000.0,Ariana,Sidi Thabet
-Terrains et Fermes,,,,À Vendre,350000.0,Ariana,Sidi Thabet
-Terrains et Fermes,,,,À Vendre,1100000.0,Ariana,Sidi Thabet
-Terrains et Fermes,,,,À Vendre,180000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,170000.0,Ariana,
+Terrains et Fermes,,,,À Vendre,400000.0,Ariana,
+Terrains et Fermes,,,,À Vendre,270000.0,Ariana,
+Terrains et Fermes,,,,À Vendre,250000.0,Ariana,
+Terrains et Fermes,,,,À Vendre,280000.0,Ariana,
+Terrains et Fermes,,,,À Vendre,350000.0,Ariana,
+Terrains et Fermes,,,,À Vendre,1100000.0,Ariana,
+Terrains et Fermes,,,,À Vendre,180000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,400000.0,Ariana,Raoued
-Terrains et Fermes,,,,À Vendre,150000.0,Ariana,Sidi Thabet
-Terrains et Fermes,,,,À Vendre,250000.0,Ariana,Sidi Thabet
-Terrains et Fermes,,,,À Vendre,2400000.0,Ariana,Sidi Thabet
-Terrains et Fermes,,,,À Vendre,220000.0,Ariana,Sidi Thabet
-Terrains et Fermes,,,,À Vendre,250000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,150000.0,Ariana,
+Terrains et Fermes,,,,À Vendre,250000.0,Ariana,
+Terrains et Fermes,,,,À Vendre,2400000.0,Ariana,
+Terrains et Fermes,,,,À Vendre,220000.0,Ariana,
+Terrains et Fermes,,,,À Vendre,250000.0,Ariana,
 Appartements,3.0,1.0,163.0,À Vendre,340000.0,Ariana,Borj Louzir
 Maisons et Villas,3.0,1.0,120.0,À Vendre,400000.0,Ariana,Ghazela
 Terrains et Fermes,,,,À Vendre,650000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,800000.0,Ariana,Ghazela
 Terrains et Fermes,,,,À Vendre,900000.0,Ariana,Ariana
-Terrains et Fermes,,,,À Vendre,4000000.0,Ariana,Sidi Thabet
-Terrains et Fermes,,,,À Vendre,200000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,4000000.0,Ariana,
+Terrains et Fermes,,,,À Vendre,200000.0,Ariana,
 Maisons et Villas,8.0,3.0,280.0,À Vendre,145000.0,Ariana,Ghazela
 Maisons et Villas,3.0,2.0,188.0,À Vendre,257000.0,Ariana,Jardins D'el Menzah
 Appartements,1.0,1.0,65.0,À Louer,800.0,Ariana,Ennasr
@@ -217,7 +217,7 @@ Appartements,2.0,1.0,100.0,À Louer,400.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,2820150.0,Ariana,Raoued
 Bureaux et Plateaux,2.0,1.0,90.0,À Louer,900.0,Ariana,Ennasr
 Maisons et Villas,3.0,1.0,130.0,À Louer,370.0,Ariana,La Soukra
-Terrains et Fermes,,,,À Vendre,800000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,800000.0,Ariana,
 Appartements,4.0,2.0,180.0,À Louer,1200.0,Ariana,Ariana
 Maisons et Villas,6.0,3.0,350.0,À Louer,2850.0,Ariana,Ariana
 Appartements,2.0,1.0,52.0,À Vendre,85000.0,Ariana,Ariana
@@ -267,7 +267,7 @@ Appartements,3.0,2.0,163.0,À Vendre,340000.0,Ariana,Ennasr
 Appartements,1.0,1.0,70.0,À Louer,280.0,Ariana,Autres villes
 Appartements,2.0,1.0,90.0,À Louer,750.0,Ariana,Ariana
 Maisons et Villas,4.0,1.0,100.0,À Louer,530.0,Ariana,Ghazela
-Terrains et Fermes,,,,À Vendre,180000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,180000.0,Ariana,
 Appartements,4.0,1.0,110.0,À Louer,600.0,Ariana,Ariana
 Appartements,2.0,1.0,105.0,À Vendre,220000.0,Ariana,Ennasr
 Appartements,4.0,1.0,153.0,À Vendre,360000.0,Ariana,Ariana
@@ -314,7 +314,7 @@ Appartements,2.0,1.0,100.0,À Louer,230.0,Ariana,Borj Louzir
 Terrains et Fermes,,,,À Vendre,105000.0,Ariana,Raoued
 Appartements,1.0,1.0,60.0,À Louer,650.0,Ariana,Jardins D'el Menzah
 Appartements,3.0,1.0,170.0,À Vendre,350000.0,Ariana,Ennasr
-Terrains et Fermes,,,,À Vendre,350000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,350000.0,Ariana,
 Appartements,2.0,1.0,100.0,À Louer,800.0,Ariana,La Soukra
 Terrains et Fermes,,,,À Vendre,650000.0,Ariana,Jardins D'el Menzah
 Terrains et Fermes,,,,À Vendre,700000.0,Ariana,Ghazela
@@ -323,7 +323,7 @@ Terrains et Fermes,,,,À Vendre,90000.0,Ariana,Raoued
 Appartements,3.0,1.0,100.0,À Louer,700.0,Ariana,Borj Louzir
 Terrains et Fermes,,,,À Vendre,220000.0,Ariana,Raoued
 Appartements,3.0,3.0,190.0,À Louer,2500.0,Ariana,Ennasr
-Terrains et Fermes,,,,À Vendre,150000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,150000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,625000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,250000.0,Ariana,Raoued
 Maisons et Villas,5.0,1.0,240.0,À Vendre,280000.0,Ariana,Raoued
@@ -385,7 +385,7 @@ Appartements,2.0,1.0,120.0,À Vendre,270000.0,Ariana,Ennasr
 Appartements,3.0,2.0,169.0,À Vendre,410000.0,Ariana,Ennasr
 Maisons et Villas,4.0,3.0,609.0,À Vendre,1150000.0,Ariana,Ennasr
 Appartements,3.0,2.0,130.0,À Louer,1200.0,Ariana,La Soukra
-Terrains et Fermes,,,,À Vendre,130000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,130000.0,Ariana,
 Maisons et Villas,3.0,1.0,417.0,À Vendre,130000.0,Ariana,Raoued
 Maisons et Villas,3.0,2.0,290.0,À Vendre,690000.0,Ariana,Autres villes
 Maisons et Villas,2.0,1.0,120.0,À Louer,350.0,Ariana,Chotrana
@@ -531,14 +531,14 @@ Maisons et Villas,2.0,1.0,110.0,À Vendre,120000.0,Ariana,Raoued
 Maisons et Villas,1.0,1.0,195.0,À Vendre,65000.0,Ariana,Chotrana
 Maisons et Villas,1.0,1.0,150.0,À Vendre,68000.0,Ariana,Chotrana
 Maisons et Villas,12.0,3.0,220.0,À Vendre,3000000.0,Ariana,Autres villes
-Terrains et Fermes,,,,À Vendre,230000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,230000.0,Ariana,
 Maisons et Villas,3.0,1.0,115.0,À Vendre,130000.0,Ariana,Borj Louzir
 Maisons et Villas,2.0,1.0,70.0,À Louer,320.0,Ariana,Chotrana
 Colocations,1.0,1.0,40.0,À Louer,170.0,Ariana,Ghazela
 Appartements,2.0,1.0,66.0,À Louer,650.0,Ariana,Mnihla
 Appartements,1.0,1.0,60.0,À Vendre,170000.0,Ariana,Chotrana
 Maisons et Villas,5.0,2.0,200.0,À Louer,2000.0,Ariana,Autres villes
-Terrains et Fermes,,,,À Vendre,150000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,150000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,200000.0,Ariana,Ariana Ville
 Terrains et Fermes,,,,À Vendre,150000.0,Ariana,Raoued
 Maisons et Villas,3.0,1.0,330.0,À Vendre,180000.0,Ariana,Raoued
@@ -558,8 +558,8 @@ Appartements,3.0,1.0,140.0,À Vendre,230000.0,Ariana,Jardins D'el Menzah
 Maisons et Villas,3.0,3.0,370.0,À Vendre,760000.0,Ariana,La Soukra
 Appartements,2.0,1.0,80.0,À Vendre,119000.0,Ariana,Borj Louzir
 Appartements,3.0,1.0,110.0,À Louer,650.0,Ariana,Ariana Ville
-Terrains et Fermes,,,,À Vendre,1200000.0,Ariana,Sidi Thabet
-Terrains et Fermes,,,,À Vendre,300000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,1200000.0,Ariana,
+Terrains et Fermes,,,,À Vendre,300000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,450000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,720000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,240000.0,Ariana,Raoued
@@ -645,8 +645,8 @@ Appartements,3.0,1.0,100.0,À Louer,700.0,Ariana,Autres villes
 Maisons et Villas,7.0,2.0,500.0,À Vendre,375000.0,Ariana,Raoued
 Maisons et Villas,3.0,4.0,400.0,À Vendre,800000.0,Ariana,La Soukra
 Appartements,3.0,2.0,230.0,À Louer,800.0,Ariana,La Soukra
-Terrains et Fermes,,,,À Vendre,30000.0,Ariana,Sidi Thabet
-Terrains et Fermes,,,,À Vendre,30000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,30000.0,Ariana,
+Terrains et Fermes,,,,À Vendre,30000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,500000.0,Ariana,Raoued
 Maisons et Villas,5.0,4.0,407.0,À Vendre,1000000.0,Ariana,La Soukra
 Terrains et Fermes,,,,À Vendre,680000.0,Ariana,La Soukra
@@ -668,7 +668,7 @@ Terrains et Fermes,,,,À Vendre,377000.0,Ariana,La Soukra
 Maisons et Villas,3.0,1.0,90.0,À Louer,600.0,Ariana,Borj Louzir
 Appartements,3.0,1.0,100.0,À Vendre,265000.0,Ariana,Ariana Ville
 Maisons et Villas,6.0,2.0,270.0,À Vendre,630000.0,Ariana,Jardins D'el Menzah
-Maisons et Villas,2.0,1.0,200.0,À Louer,130.0,Ariana,Sidi Thabet
+Maisons et Villas,2.0,1.0,200.0,À Louer,130.0,Ariana,
 Terrains et Fermes,,,,À Vendre,42000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,45000.0,Ariana,Autres villes
 Appartements,3.0,1.0,110.0,À Louer,600.0,Ariana,Ariana
@@ -679,7 +679,7 @@ Appartements,2.0,1.0,120.0,À Vendre,270000.0,Ariana,Ennasr
 Maisons et Villas,3.0,2.0,226.0,À Vendre,550000.0,Ariana,Ennasr
 Appartements,3.0,1.0,160.0,À Louer,850.0,Ariana,Ariana Ville
 Maisons et Villas,4.0,2.0,152.0,À Louer,1200.0,Ariana,Jardins D'el Menzah
-Terrains et Fermes,,,,À Vendre,120000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,120000.0,Ariana,
 Bureaux et Plateaux,9.0,2.0,420.0,À Louer,4250.0,Ariana,Autres villes
 Maisons et Villas,2.0,1.0,150.0,À Vendre,120000.0,Ariana,Mnihla
 Maisons et Villas,4.0,2.0,120.0,À Louer,475.0,Ariana,Autres villes
@@ -710,7 +710,7 @@ Terrains et Fermes,,,,À Vendre,550000.0,Ariana,Borj Louzir
 Maisons et Villas,7.0,2.0,400.0,À Vendre,550000.0,Ariana,Ariana
 Maisons et Villas,6.0,2.0,267.0,À Vendre,220000.0,Ariana,Ettadhamen
 Maisons et Villas,2.0,1.0,150.0,À Vendre,170000.0,Ariana,Ghazela
-Terrains et Fermes,,,,À Vendre,100000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,100000.0,Ariana,
 Appartements,1.0,1.0,60.0,À Louer,70.0,Ariana,Ennasr
 Appartements,1.0,1.0,78.0,À Louer,1050.0,Ariana,Ennasr
 Locations de vacances,1.0,1.0,60.0,À Louer,70.0,Ariana,Ennasr
@@ -733,14 +733,14 @@ Appartements,2.0,1.0,97.0,À Louer,1200.0,Ariana,La Soukra
 Appartements,3.0,1.0,80.0,À Louer,480.0,Ariana,Borj Louzir
 "Magasins, Commerces et Locaux industriels",1.0,1.0,69.0,À Louer,1500.0,Ariana,Jardins D'el Menzah
 Appartements,1.0,1.0,120.0,À Louer,550.0,Ariana,Autres villes
-Terrains et Fermes,,,,À Vendre,155000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,155000.0,Ariana,
 Appartements,3.0,2.0,120.0,À Louer,1300.0,Ariana,Autres villes
 Appartements,3.0,2.0,130.0,À Louer,1400.0,Ariana,Jardins D'el Menzah
 Appartements,2.0,1.0,60.0,À Louer,700.0,Ariana,Ghazela
 Appartements,3.0,1.0,105.0,À Louer,800.0,Ariana,Ennasr
 Appartements,2.0,1.0,100.0,À Louer,800.0,Ariana,La Soukra
 Terrains et Fermes,,,,À Vendre,382500.0,Ariana,La Soukra
-Terrains et Fermes,,,,À Vendre,750000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,750000.0,Ariana,
 Maisons et Villas,5.0,1.0,350.0,À Vendre,310000.0,Ariana,Jardins D'el Menzah
 Terrains et Fermes,,,,À Vendre,21000.0,Ariana,Ariana Ville
 Maisons et Villas,4.0,1.0,120.0,À Louer,950.0,Ariana,Raoued
@@ -791,7 +791,7 @@ Appartements,2.0,1.0,60.0,À Louer,400.0,Ariana,Autres villes
 Maisons et Villas,4.0,2.0,900.0,À Vendre,700000.0,Ariana,Autres villes
 Appartements,2.0,1.0,120.0,À Louer,550.0,Ariana,Ghazela
 Appartements,2.0,1.0,50.0,À Louer,800.0,Ariana,Ennasr
-Maisons et Villas,4.0,2.0,450.0,À Louer,700.0,Ariana,Sidi Thabet
+Maisons et Villas,4.0,2.0,450.0,À Louer,700.0,Ariana,
 Appartements,2.0,1.0,70.0,À Vendre,170000.0,Ariana,La Soukra
 Terrains et Fermes,,,,À Vendre,316000.0,Ariana,Autres villes
 Colocations,4.0,2.0,150.0,À Louer,160.0,Ariana,Autres villes
@@ -838,7 +838,7 @@ Appartements,2.0,2.0,120.0,À Louer,700.0,Ariana,Ariana
 Terrains et Fermes,,,,À Vendre,40000.0,Ariana,Ettadhamen
 "Magasins, Commerces et Locaux industriels",1.0,1.0,32.0,À Louer,700.0,Ariana,Ariana
 Bureaux et Plateaux,1.0,1.0,45.0,À Vendre,83000.0,Ariana,Autres villes
-Terrains et Fermes,,,,À Vendre,450000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,450000.0,Ariana,
 Maisons et Villas,4.0,1.0,200.0,À Vendre,140000.0,Ariana,Mnihla
 Appartements,1.0,1.0,70.0,À Louer,800.0,Ariana,Ennasr
 Appartements,2.0,1.0,128.0,À Vendre,360000.0,Ariana,La Soukra
@@ -850,11 +850,11 @@ Appartements,2.0,1.0,144.0,À Vendre,430000.0,Ariana,La Soukra
 Appartements,1.0,1.0,80.0,À Louer,100.0,Ariana,Ennasr
 Appartements,2.0,1.0,90.0,À Louer,80.0,Ariana,Ennasr
 Appartements,2.0,1.0,75.0,À Louer,850.0,Ariana,Jardins D'el Menzah
-Terrains et Fermes,,,,À Vendre,50000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,50000.0,Ariana,
 Maisons et Villas,4.0,2.0,200.0,À Louer,1600.0,Ariana,La Soukra
 Appartements,2.0,1.0,100.0,À Louer,850.0,Ariana,La Soukra
 Terrains et Fermes,,,,À Vendre,105000.0,Ariana,Autres villes
-Terrains et Fermes,,,,À Vendre,230000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,230000.0,Ariana,
 "Magasins, Commerces et Locaux industriels",1.0,1.0,300.0,À Vendre,150000.0,Ariana,La Soukra
 Terrains et Fermes,,,,À Vendre,80000.0,Ariana,Chotrana
 Appartements,2.0,1.0,70.0,À Louer,80.0,Ariana,Ennasr
@@ -869,7 +869,7 @@ Terrains et Fermes,,,,À Vendre,95000.0,Ariana,La Soukra
 Bureaux et Plateaux,2.0,1.0,120.0,À Louer,3000.0,Ariana,La Soukra
 Appartements,1.0,1.0,68.0,À Louer,650.0,Ariana,Autres villes
 Terrains et Fermes,,,,À Vendre,85000.0,Ariana,Ariana
-Terrains et Fermes,,,,À Vendre,240000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,240000.0,Ariana,
 Maisons et Villas,5.0,1.0,250.0,À Vendre,520000.0,Ariana,La Soukra
 Appartements,3.0,1.0,110.0,À Vendre,120000.0,Ariana,Ariana
 Appartements,2.0,1.0,85.0,À Louer,600.0,Ariana,La Soukra
@@ -880,15 +880,15 @@ Terrains et Fermes,,,,À Vendre,400000.0,Ariana,Ariana
 Terrains et Fermes,,,,À Vendre,120000.0,Ariana,Raoued
 Maisons et Villas,3.0,1.0,98.0,À Vendre,75000.0,Ariana,Raoued
 Appartements,3.0,1.0,140.0,À Vendre,290000.0,Ariana,Ghazela
-Terrains et Fermes,,,,À Vendre,250000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,250000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,420000.0,Ariana,Raoued
-Terrains et Fermes,,,,À Vendre,350000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,350000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,450000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,550000.0,Ariana,Ariana
 Terrains et Fermes,,,,À Vendre,700000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,380000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,160000.0,Ariana,Mnihla
-Terrains et Fermes,,,,À Vendre,140000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,140000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,400000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,180000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,350000.0,Ariana,Raoued
@@ -917,9 +917,9 @@ Appartements,4.0,1.0,100.0,À Louer,475.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,650000.0,Ariana,Jardins D'el Menzah
 Terrains et Fermes,,,,À Vendre,700000.0,Ariana,Ghazela
 Appartements,1.0,2.0,140.0,À Louer,1250.0,Ariana,Ennasr
-Terrains et Fermes,,,,À Vendre,30000.0,Ariana,Sidi Thabet
-Terrains et Fermes,,,,À Vendre,35000.0,Ariana,Sidi Thabet
-Maisons et Villas,4.0,1.0,140.0,À Vendre,120000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,30000.0,Ariana,
+Terrains et Fermes,,,,À Vendre,35000.0,Ariana,
+Maisons et Villas,4.0,1.0,140.0,À Vendre,120000.0,Ariana,
 Appartements,3.0,1.0,150.0,À Louer,900.0,Ariana,Ennasr
 Maisons et Villas,3.0,1.0,140.0,À Vendre,120000.0,Ariana,Raoued
 "Magasins, Commerces et Locaux industriels",6.0,4.0,200.0,À Vendre,780000.0,Ariana,Raoued
@@ -936,7 +936,7 @@ Maisons et Villas,2.0,1.0,440.0,À Vendre,270000.0,Ariana,Raoued
 Appartements,1.0,1.0,70.0,À Vendre,195000.0,Ariana,La Soukra
 Maisons et Villas,6.0,2.0,300.0,À Vendre,210000.0,Ariana,Raoued
 Appartements,1.0,1.0,22.0,À Louer,70.0,Ariana,Ennasr
-Terrains et Fermes,,,,À Vendre,450000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,450000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,470000.0,Ariana,Mnihla
 Appartements,1.0,1.0,75.0,À Louer,900.0,Ariana,Ariana
 Maisons et Villas,5.0,2.0,436.0,À Vendre,900000.0,Ariana,Ariana
@@ -953,7 +953,7 @@ Appartements,2.0,1.0,90.0,À Louer,90.0,Ariana,Ennasr
 Terrains et Fermes,,,,À Vendre,280000.0,Ariana,Raoued
 Maisons et Villas,5.0,3.0,900.0,À Vendre,1300000.0,Ariana,La Soukra
 "Magasins, Commerces et Locaux industriels",1.0,1.0,200.0,À Louer,750.0,Ariana,La Soukra
-Maisons et Villas,5.0,1.0,1000.0,À Vendre,420000.0,Ariana,Sidi Thabet
+Maisons et Villas,5.0,1.0,1000.0,À Vendre,420000.0,Ariana,
 Appartements,2.0,1.0,65.0,À Louer,700.0,Ariana,Ariana
 Appartements,1.0,1.0,50.0,À Louer,800.0,Ariana,Autres villes
 Maisons et Villas,12.0,5.0,300.0,À Vendre,400000.0,Ariana,Ariana
@@ -1029,7 +1029,7 @@ Appartements,3.0,1.0,100.0,À Louer,1200.0,Ariana,La Soukra
 Appartements,3.0,1.0,113.0,À Vendre,220000.0,Ariana,La Soukra
 Appartements,3.0,1.0,80.0,À Louer,550.0,Ariana,Autres villes
 Appartements,1.0,1.0,31.0,À Vendre,95000.0,Ariana,Raoued
-Terrains et Fermes,,,,À Vendre,200000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,200000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,2500000.0,Ariana,Autres villes
 Maisons et Villas,8.0,2.0,718.0,À Vendre,600000.0,Ariana,Mnihla
 Terrains et Fermes,,,,À Vendre,400000.0,Ariana,Jardins D'el Menzah
@@ -1039,8 +1039,8 @@ Appartements,2.0,1.0,105.0,À Vendre,215000.0,Ariana,Ghazela
 Terrains et Fermes,,,,À Vendre,800000.0,Ariana,La Soukra
 Terrains et Fermes,,,,À Vendre,550000.0,Ariana,La Soukra
 Maisons et Villas,1.0,1.0,195.0,À Vendre,65000.0,Ariana,Chotrana
-Terrains et Fermes,,,,À Vendre,750000.0,Ariana,Sidi Thabet
-Terrains et Fermes,,,,À Vendre,850000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,750000.0,Ariana,
+Terrains et Fermes,,,,À Vendre,850000.0,Ariana,
 Maisons et Villas,1.0,1.0,150.0,À Vendre,68000.0,Ariana,Chotrana
 Terrains et Fermes,,,,À Vendre,540000.0,Ariana,La Soukra
 Terrains et Fermes,,,,À Vendre,179900.0,Ariana,Raoued
@@ -1049,7 +1049,7 @@ Maisons et Villas,1.0,1.0,200.0,À Vendre,60000.0,Ariana,Raoued
 Appartements,3.0,2.0,115.0,À Louer,830.0,Ariana,Jardins D'el Menzah
 Appartements,3.0,1.0,100.0,À Vendre,107000.0,Ariana,Borj Louzir
 Appartements,3.0,2.0,115.0,À Louer,830.0,Ariana,Jardins D'el Menzah
-Terrains et Fermes,,,,À Vendre,37620.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,37620.0,Ariana,
 Terrains et Fermes,,,,À Vendre,860000.0,Ariana,Chotrana
 Maisons et Villas,4.0,1.0,200.0,À Louer,650.0,Ariana,Autres villes
 Maisons et Villas,3.0,1.0,100.0,À Vendre,58000.0,Ariana,Raoued
@@ -1092,7 +1092,7 @@ Maisons et Villas,3.0,1.0,210.0,À Louer,2200.0,Ariana,Jardins D'el Menzah
 Terrains et Fermes,,,,À Vendre,540000.0,Ariana,La Soukra
 Terrains et Fermes,,,,À Vendre,187000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,180000.0,Ariana,Autres villes
-Terrains et Fermes,,,,À Vendre,93100.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,93100.0,Ariana,
 Maisons et Villas,6.0,2.0,187.0,À Vendre,210000.0,Ariana,Raoued
 Maisons et Villas,4.0,1.0,450.0,À Vendre,220000.0,Ariana,Borj Louzir
 Appartements,3.0,1.0,70.0,À Louer,450.0,Ariana,Autres villes
@@ -1153,7 +1153,7 @@ Terrains et Fermes,,,,À Vendre,315000.0,Ariana,Autres villes
 Terrains et Fermes,,,,À Vendre,220000.0,Ariana,Raoued
 "Magasins, Commerces et Locaux industriels",5.0,2.0,730.0,À Louer,800.0,Ariana,Ettadhamen
 Terrains et Fermes,,,,À Vendre,130000.0,Ariana,Raoued
-Terrains et Fermes,,,,À Vendre,150000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,150000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,900000.0,Ariana,Ariana
 Bureaux et Plateaux,2.0,1.0,60.0,À Louer,750.0,Ariana,Ariana Ville
 Terrains et Fermes,,,,À Vendre,90000.0,Ariana,Raoued
@@ -1226,17 +1226,17 @@ Maisons et Villas,4.0,2.0,320.0,À Vendre,265000.0,Ariana,Ghazela
 Maisons et Villas,4.0,1.0,130.0,À Vendre,135000.0,Ariana,Ettadhamen
 Appartements,2.0,2.0,121.0,À Vendre,328000.0,Ariana,La Soukra
 Appartements,1.0,1.0,64.0,À Vendre,161000.0,Ariana,Ariana Ville
-Terrains et Fermes,,,,À Vendre,270000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,270000.0,Ariana,
 Appartements,3.0,1.0,120.0,À Louer,650.0,Ariana,Autres villes
-Terrains et Fermes,,,,À Vendre,200000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,200000.0,Ariana,
 Maisons et Villas,5.0,2.0,320.0,À Vendre,600000.0,Ariana,La Soukra
 Terrains et Fermes,,,,À Vendre,240000.0,Ariana,Borj Louzir
 Terrains et Fermes,,,,À Vendre,280000.0,Ariana,Borj Louzir
 Appartements,3.0,2.0,150.0,À Louer,950.0,Ariana,La Soukra
 Terrains et Fermes,,,,À Vendre,280000.0,Ariana,Borj Louzir
-Terrains et Fermes,,,,À Vendre,380000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,380000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,420000.0,Ariana,Raoued
-Terrains et Fermes,,,,À Vendre,350000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,350000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,250000.0,Ariana,Chotrana
 Terrains et Fermes,,,,À Vendre,457650.0,Ariana,Jardins D'el Menzah
 Maisons et Villas,6.0,3.0,311.0,À Vendre,900000.0,Ariana,La Soukra
@@ -1323,7 +1323,7 @@ Colocations,2.0,1.0,300.0,À Louer,150.0,Ariana,La Soukra
 Appartements,2.0,1.0,100.0,À Louer,1000.0,Ariana,Jardins D'el Menzah
 Terrains et Fermes,,,,À Vendre,180000.0,Ariana,Ennasr
 "Magasins, Commerces et Locaux industriels",3.0,1.0,170.0,À Louer,3000.0,Ariana,Autres villes
-Appartements,1.0,1.0,45.0,À Vendre,145000.0,Ariana,Sidi Thabet
+Appartements,1.0,1.0,45.0,À Vendre,145000.0,Ariana,
 Appartements,1.0,1.0,68.0,À Vendre,170000.0,Ariana,Ennasr
 Locations de vacances,1.0,1.0,60.0,À Louer,70.0,Ariana,Autres villes
 Appartements,1.0,1.0,70.0,À Louer,70.0,Ariana,Autres villes
@@ -1392,7 +1392,7 @@ Appartements,3.0,2.0,122.0,À Vendre,280000.0,Ariana,La Soukra
 Maisons et Villas,2.0,1.0,80.0,À Louer,450.0,Ariana,Jardins D'el Menzah
 Terrains et Fermes,,,,À Vendre,295000.0,Ariana,Ariana
 Appartements,2.0,1.0,65.0,À Vendre,140000.0,Ariana,Ghazela
-Terrains et Fermes,,,,À Vendre,160000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,160000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,375000.0,Ariana,Ghazela
 Terrains et Fermes,,,,À Vendre,300000.0,Ariana,Autres villes
 Terrains et Fermes,,,,À Vendre,500000.0,Ariana,Autres villes
@@ -1452,7 +1452,7 @@ Appartements,3.0,2.0,150.0,À Louer,1350.0,Ariana,La Soukra
 Maisons et Villas,2.0,1.0,100.0,À Vendre,400000.0,Ariana,La Soukra
 Terrains et Fermes,,,,À Vendre,120000.0,Ariana,Mnihla
 Terrains et Fermes,,,,À Vendre,660000.0,Ariana,Autres villes
-Terrains et Fermes,,,,À Vendre,80000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,80000.0,Ariana,
 Maisons et Villas,10.0,3.0,800.0,À Vendre,1200000.0,Ariana,Autres villes
 "Magasins, Commerces et Locaux industriels",1.0,1.0,250.0,À Louer,1200000.0,Ariana,La Soukra
 Terrains et Fermes,,,,À Vendre,130000.0,Ariana,Raoued
@@ -1462,19 +1462,19 @@ Appartements,1.0,1.0,65.0,À Louer,80.0,Ariana,Ennasr
 Terrains et Fermes,,,,À Vendre,625000.0,Ariana,Chotrana
 Colocations,2.0,1.0,80.0,À Louer,250000.0,Ariana,Ariana Ville
 Bureaux et Plateaux,3.0,1.0,140.0,À Louer,1000.0,Ariana,Autres villes
-Terrains et Fermes,,,,À Vendre,30000.0,Ariana,Sidi Thabet
-Terrains et Fermes,,,,À Vendre,50000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,30000.0,Ariana,
+Terrains et Fermes,,,,À Vendre,50000.0,Ariana,
 Appartements,2.0,1.0,120.0,À Louer,850.0,Ariana,Ariana Ville
 Maisons et Villas,5.0,3.0,395.0,À Vendre,1027188.0,Ariana,La Soukra
-Terrains et Fermes,,,,À Vendre,35000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,35000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,110000.0,Ariana,Ariana
 Terrains et Fermes,,,,À Vendre,160000.0,Ariana,Mnihla
 Terrains et Fermes,,,,À Vendre,700000.0,Ariana,Ghazela
-Terrains et Fermes,,,,À Vendre,250000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,250000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,120000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,90000.0,Ariana,Autres villes
 Bureaux et Plateaux,2.0,1.0,93.0,À Louer,700.0,Ariana,Borj Louzir
-Terrains et Fermes,,,,À Vendre,250000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,250000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,720000.0,Ariana,La Soukra
 Maisons et Villas,3.0,1.0,139.0,À Vendre,300000.0,Ariana,Ghazela
 Appartements,2.0,1.0,110.0,À Vendre,250000.0,Ariana,Ghazela
@@ -1520,7 +1520,7 @@ Terrains et Fermes,,,,À Vendre,800000.0,Ariana,Ennasr
 Appartements,2.0,1.0,80.0,À Louer,470.0,Ariana,Ghazela
 Appartements,3.0,1.0,100.0,À Vendre,230000.0,Ariana,Ennasr
 Maisons et Villas,4.0,2.0,277.0,À Vendre,580000.0,Ariana,Ennasr
-Terrains et Fermes,,,,À Vendre,200000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,200000.0,Ariana,
 Appartements,3.0,2.0,168.0,À Vendre,370000.0,Ariana,Autres villes
 Appartements,2.0,1.0,80.0,À Louer,1000.0,Ariana,La Soukra
 Appartements,4.0,3.0,100.0,À Louer,1500.0,Ariana,Ennasr
@@ -1533,7 +1533,7 @@ Appartements,1.0,1.0,80.0,À Louer,90.0,Ariana,Ennasr
 Maisons et Villas,8.0,2.0,500.0,À Vendre,400000.0,Ariana,Ghazela
 Terrains et Fermes,,,,À Vendre,200000.0,Ariana,Autres villes
 "Magasins, Commerces et Locaux industriels",1.0,1.0,200.0,À Vendre,190000.0,Ariana,La Soukra
-Maisons et Villas,4.0,1.0,300.0,À Vendre,175000.0,Ariana,Sidi Thabet
+Maisons et Villas,4.0,1.0,300.0,À Vendre,175000.0,Ariana,
 Maisons et Villas,3.0,1.0,150.0,À Vendre,165000.0,Ariana,Raoued
 Maisons et Villas,2.0,1.0,103.0,À Vendre,115000.0,Ariana,Ghazela
 Appartements,1.0,1.0,67.0,À Vendre,179000.0,Ariana,Ennasr
@@ -1599,7 +1599,7 @@ Maisons et Villas,3.0,3.0,1050.0,À Louer,5500.0,Ariana,La Soukra
 Terrains et Fermes,,,,À Vendre,180000.0,Ariana,Ariana
 Maisons et Villas,6.0,2.0,1100.0,À Vendre,1650000.0,Ariana,La Soukra
 Maisons et Villas,3.0,1.0,90.0,À Vendre,70000.0,Ariana,Raoued
-Terrains et Fermes,,,,À Vendre,150000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,150000.0,Ariana,
 "Magasins, Commerces et Locaux industriels",1.0,1.0,45.0,À Louer,950.0,Ariana,Ariana
 Terrains et Fermes,,,,À Vendre,900000.0,Ariana,Ariana
 Bureaux et Plateaux,1.0,8.0,900.0,À Louer,6000.0,Ariana,Autres villes
@@ -1627,7 +1627,7 @@ Maisons et Villas,3.0,1.0,120.0,À Louer,350.0,Ariana,Borj Louzir
 Appartements,2.0,1.0,92.0,À Vendre,190000.0,Ariana,Ghazela
 Appartements,1.0,1.0,60.0,À Louer,1200.0,Ariana,Jardins D'el Menzah
 Terrains et Fermes,,,,À Vendre,8500000.0,Ariana,Ariana Ville
-Terrains et Fermes,,,,À Vendre,50000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,50000.0,Ariana,
 Appartements,2.0,1.0,110.0,À Louer,950.0,Ariana,Ariana Ville
 Bureaux et Plateaux,1.0,8.0,1300.0,À Louer,20000.0,Ariana,Autres villes
 Maisons et Villas,3.0,2.0,320.0,À Vendre,600000.0,Ariana,La Soukra
@@ -1694,7 +1694,7 @@ Terrains et Fermes,,,,À Vendre,250000.0,Ariana,Autres villes
 Terrains et Fermes,,,,À Vendre,650000.0,Ariana,Jardins D'el Menzah
 Terrains et Fermes,,,,À Vendre,200000.0,Ariana,Ghazela
 Terrains et Fermes,,,,À Vendre,700000.0,Ariana,Ghazela
-Terrains et Fermes,,,,À Vendre,140000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,140000.0,Ariana,
 Appartements,3.0,1.0,72.0,À Louer,380.0,Ariana,Borj Louzir
 Appartements,2.0,1.0,80.0,À Louer,450.0,Ariana,Borj Louzir
 Appartements,1.0,1.0,70.0,À Louer,1100.0,Ariana,Ennasr
@@ -1724,13 +1724,13 @@ Appartements,3.0,1.0,130.0,À Louer,900.0,Ariana,Ariana Ville
 Bureaux et Plateaux,2.0,1.0,30.0,À Louer,400.0,Ariana,La Soukra
 "Magasins, Commerces et Locaux industriels",3.0,2.0,200.0,À Louer,390000.0,Ariana,Raoued
 Locations de vacances,2.0,1.0,70.0,À Louer,70.0,Ariana,Autres villes
-Terrains et Fermes,,,,À Vendre,250000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,250000.0,Ariana,
 Appartements,2.0,1.0,65.0,À Vendre,180000.0,Ariana,Ennasr
 Appartements,2.0,1.0,104.0,À Vendre,205000.0,Ariana,Ennasr
 Appartements,3.0,2.0,160.0,À Louer,1100.0,Ariana,Ennasr
 Maisons et Villas,5.0,1.0,600.0,À Louer,4500.0,Ariana,La Soukra
 Appartements,3.0,2.0,110.0,À Louer,900.0,Ariana,Ghazela
-Terrains et Fermes,,,,À Vendre,600000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,600000.0,Ariana,
 Maisons et Villas,3.0,1.0,75.0,À Vendre,23026677.0,Ariana,Borj Louzir
 Appartements,2.0,1.0,110.0,À Louer,840.0,Ariana,Ghazela
 Maisons et Villas,4.0,3.0,480.0,À Vendre,840000.0,Ariana,La Soukra
@@ -1742,7 +1742,7 @@ Appartements,3.0,2.0,90.0,À Louer,750.0,Ariana,La Soukra
 Appartements,2.0,1.0,58.0,À Louer,720.0,Ariana,Autres villes
 Appartements,2.0,2.0,131.0,À Vendre,181000.0,Ariana,Chotrana
 Locations de vacances,2.0,1.0,70.0,À Louer,50.0,Ariana,Autres villes
-Terrains et Fermes,,,,À Vendre,250000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,250000.0,Ariana,
 Appartements,2.0,1.0,75.0,À Louer,340.0,Ariana,Borj Louzir
 "Magasins, Commerces et Locaux industriels",4.0,1.0,400.0,À Louer,2000.0,Ariana,Ariana
 Maisons et Villas,4.0,2.0,250.0,À Vendre,350000.0,Ariana,Autres villes
@@ -1830,7 +1830,7 @@ Maisons et Villas,6.0,2.0,250.0,À Vendre,230000.0,Ariana,Borj Louzir
 Appartements,1.0,2.0,70.0,À Louer,1200.0,Ariana,Autres villes
 Maisons et Villas,7.0,2.0,500.0,À Vendre,375000.0,Ariana,Raoued
 Maisons et Villas,12.0,5.0,300.0,À Vendre,400000.0,Ariana,Ariana
-Maisons et Villas,5.0,1.0,1000.0,À Vendre,420000.0,Ariana,Sidi Thabet
+Maisons et Villas,5.0,1.0,1000.0,À Vendre,420000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,39780.0,Ariana,Autres villes
 Terrains et Fermes,,,,À Vendre,250000.0,Ariana,Autres villes
 Terrains et Fermes,,,,À Vendre,450000.0,Ariana,Raoued
@@ -1879,22 +1879,22 @@ Maisons et Villas,4.0,1.0,130.0,À Vendre,135000.0,Ariana,Ettadhamen
 Appartements,3.0,1.0,120.0,À Louer,240000.0,Ariana,La Soukra
 Terrains et Fermes,,,,À Vendre,450000.0,Ariana,Raoued
 Appartements,1.0,2.0,30.0,À Louer,400.0,Ariana,Ennasr
-Terrains et Fermes,,,,À Vendre,500000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,500000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,900000.0,Ariana,Ariana
 Terrains et Fermes,,,,À Vendre,90000.0,Ariana,Raoued
 Maisons et Villas,6.0,2.0,228.0,À Vendre,155000.0,Ariana,La Soukra
-Terrains et Fermes,,,,À Vendre,150000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,150000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,700000.0,Ariana,Ghazela
 Terrains et Fermes,,,,À Vendre,160000.0,Ariana,Mnihla
 Terrains et Fermes,,,,À Vendre,110000.0,Ariana,Raoued
-Terrains et Fermes,,,,À Vendre,35000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,35000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,380000.0,Ariana,Chotrana
 Terrains et Fermes,,,,À Vendre,130000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,375000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,70000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,700000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,550000.0,Ariana,Ariana
-Terrains et Fermes,,,,À Vendre,140000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,140000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,160000.0,Ariana,Ennasr
 Locations de vacances,3.0,1.0,100.0,À Louer,200.0,Ariana,La Soukra
 Maisons et Villas,2.0,1.0,200.0,À Vendre,85000.0,Ariana,Autres villes
@@ -2075,16 +2075,16 @@ Maisons et Villas,3.0,1.0,150.0,À Vendre,165000.0,Ariana,Raoued
 Maisons et Villas,3.0,1.0,90.0,À Vendre,70000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,400000.0,Ariana,Ariana
 Terrains et Fermes,,,,À Vendre,160000.0,Ariana,Mnihla
-Terrains et Fermes,,,,À Vendre,150000.0,Ariana,Sidi Thabet
-Terrains et Fermes,,,,À Vendre,250000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,150000.0,Ariana,
+Terrains et Fermes,,,,À Vendre,250000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,120000.0,Ariana,Raoued
 Appartements,2.0,1.0,126.0,À Vendre,250000.0,Ariana,Ennasr
-Terrains et Fermes,,,,À Vendre,140000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,140000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,200000.0,Ariana,Ghazela
 Terrains et Fermes,,,,À Vendre,110000.0,Ariana,Raoued
 Appartements,2.0,1.0,130.0,À Vendre,280000.0,Ariana,Jardins D'el Menzah
 Terrains et Fermes,,,,À Vendre,450000.0,Ariana,Raoued
-Terrains et Fermes,,,,À Vendre,35000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,35000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,350000.0,Ariana,Autres villes
 Terrains et Fermes,,,,À Vendre,550000.0,Ariana,Borj Louzir
 Terrains et Fermes,,,,À Vendre,650000.0,Ariana,Jardins D'el Menzah
@@ -2096,10 +2096,10 @@ Terrains et Fermes,,,,À Vendre,90000.0,Ariana,Raoued
 Appartements,2.0,1.0,60.0,À Louer,750.0,Ariana,Ennasr
 Terrains et Fermes,,,,À Vendre,700000.0,Ariana,Ghazela
 Terrains et Fermes,,,,À Vendre,700000.0,Ariana,Raoued
-Terrains et Fermes,,,,À Vendre,35000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,35000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,250000.0,Ariana,Autres villes
 Terrains et Fermes,,,,À Vendre,150000.0,Ariana,Raoued
-Terrains et Fermes,,,,À Vendre,30000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,30000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,100000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,380000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,150000.0,Ariana,Autres villes
@@ -2109,7 +2109,7 @@ Appartements,1.0,1.0,40.0,À Louer,100.0,Ariana,Autres villes
 Maisons et Villas,2.0,2.0,130.0,À Louer,700.0,Ariana,Jardins D'el Menzah
 Terrains et Fermes,,,,À Vendre,75000.0,Ariana,Autres villes
 Terrains et Fermes,,,,À Vendre,60000.0,Ariana,Autres villes
-Terrains et Fermes,,,,À Vendre,800000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,800000.0,Ariana,
 Maisons et Villas,5.0,2.0,500.0,À Vendre,550000.0,Ariana,La Soukra
 Maisons et Villas,3.0,1.0,120.0,À Vendre,125000.0,Ariana,Raoued
 Appartements,2.0,2.0,150.0,À Louer,1800.0,Ariana,Ennasr
@@ -2144,7 +2144,7 @@ Maisons et Villas,2.0,1.0,100.0,À Louer,350.0,Ariana,Mnihla
 Appartements,3.0,1.0,150.0,À Louer,550000.0,Ariana,Autres villes
 Appartements,2.0,1.0,110.0,À Louer,1200.0,Ariana,Ennasr
 Appartements,2.0,2.0,120.0,À Louer,1200.0,Ariana,Ennasr
-Terrains et Fermes,,,,À Vendre,11111.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,11111.0,Ariana,
 Appartements,4.0,1.0,150.0,À Vendre,375000.0,Ariana,Ariana
 Terrains et Fermes,,,,À Vendre,32500.0,Ariana,Raoued
 Appartements,1.0,1.0,60.0,À Vendre,100000.0,Ariana,La Soukra
@@ -2161,7 +2161,7 @@ Appartements,2.0,1.0,110.0,À Louer,2000.0,Ariana,Ennasr
 Appartements,3.0,1.0,156.0,À Vendre,340000.0,Ariana,La Soukra
 Terrains et Fermes,,,,À Vendre,70000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,140000.0,Ariana,Ariana
-Terrains et Fermes,,,,À Vendre,50000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,50000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,12000.0,Ariana,La Soukra
 Appartements,2.0,1.0,140.0,À Louer,550.0,Ariana,La Soukra
 Bureaux et Plateaux,2.0,1.0,100.0,À Louer,1000.0,Ariana,Ariana Ville
@@ -2190,7 +2190,7 @@ Appartements,4.0,1.0,127.0,À Vendre,255000.0,Ariana,Ghazela
 Maisons et Villas,4.0,1.0,150.0,À Vendre,140000000.0,Ariana,Mnihla
 Appartements,2.0,1.0,60.0,À Louer,500.0,Ariana,Borj Louzir
 Maisons et Villas,3.0,1.0,140.0,À Louer,400.0,Ariana,Autres villes
-Terrains et Fermes,,,,À Vendre,200000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,200000.0,Ariana,
 Terrains et Fermes,,,,À Vendre,39000.0,Ariana,Mnihla
 Maisons et Villas,3.0,1.0,105.0,À Louer,400.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,260000.0,Ariana,Chotrana
@@ -2283,7 +2283,7 @@ Appartements,2.0,1.0,100.0,À Louer,450.0,Ariana,Borj Louzir
 Appartements,3.0,1.0,120.0,À Vendre,215000.0,Ariana,Borj Louzir
 Maisons et Villas,3.0,1.0,100.0,À Louer,600.0,Ariana,Ghazela
 Appartements,1.0,1.0,50.0,À Vendre,150000.0,Ariana,Ennasr
-Terrains et Fermes,,,,À Vendre,160000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,160000.0,Ariana,
 Appartements,2.0,1.0,105.0,À Vendre,199000.0,Ariana,Ghazela
 Terrains et Fermes,,,,À Vendre,750000.0,Ariana,Jardins D'el Menzah
 Maisons et Villas,4.0,2.0,225.0,À Vendre,210000.0,Ariana,Ariana
@@ -2310,7 +2310,7 @@ Appartements,1.0,1.0,50.0,À Vendre,150000.0,Ariana,Ennasr
 Terrains et Fermes,,,,À Vendre,190000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,700000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,250000.0,Ariana,Raoued
-Terrains et Fermes,,,,À Vendre,35000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,35000.0,Ariana,
 Maisons et Villas,3.0,1.0,305.0,À Vendre,200000.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,67500.0,Ariana,Raoued
 Terrains et Fermes,,,,À Vendre,700000.0,Ariana,Raoued
@@ -2340,7 +2340,7 @@ Appartements,3.0,1.0,90.0,À Louer,800.0,Ariana,Ariana
 Appartements,4.0,1.0,110.0,À Louer,550.0,Ariana,Autres villes
 Terrains et Fermes,,,,À Vendre,70000.0,Ariana,Raoued
 Maisons et Villas,1.0,1.0,70.0,À Louer,350.0,Ariana,Autres villes
-Terrains et Fermes,,,,À Vendre,185000.0,Ariana,Sidi Thabet
+Terrains et Fermes,,,,À Vendre,185000.0,Ariana,
 Appartements,3.0,1.0,122.0,À Vendre,265000.0,Ariana,Autres villes
 Appartements,1.0,1.0,78.0,À Louer,1050.0,Ariana,Ennasr
 Terrains et Fermes,,,,À Vendre,100000.0,Ariana,Autres villes
